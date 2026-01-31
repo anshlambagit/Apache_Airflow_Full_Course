@@ -11,7 +11,7 @@ Watch the full tutorial on YouTube: [Airflow Full Course](...)
 
 ## Table of Contents
 
-- [Course Structure](#project-structure)
+- [Course Structure](#course-structure)
 - [Getting Started](#getting-started)
 - [Running with Docker Compose](#running-with-docker-compose)
 - [DAGs Overview](#dags-overview)
@@ -23,7 +23,7 @@ Watch the full tutorial on YouTube: [Airflow Full Course](...)
 
 ---
 
-## Project Structure
+## Course Structure
 
 ```
 ├── docker-compose.yaml      # Docker Compose setup for Airflow
