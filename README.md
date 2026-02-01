@@ -5,7 +5,7 @@ Welcome to the **Airflow Full Course**. This repository provides a hands-on intr
 ---
 
 ## YouTube Tutorial
-Watch the full tutorial on YouTube: [Airflow Full Course](...)
+Watch the full tutorial on YouTube: [Airflow Full Course](https://youtu.be/IiczxlbQb8s?si=agvPR5GsolXj2OtF)
 
 ---
 
